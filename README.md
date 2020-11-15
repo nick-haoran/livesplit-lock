@@ -1,2 +1,2 @@
 # livesplit-lock
-lock livesplit when speedrunning
+penetrate livesplit when speedrunning

@@ -1,7 +1,7 @@
 # livesplit-lock
 livesplitPenetrate 1.0 is out!
 # Functionality
-Prevent accidental clicks to the timer in games where the Speedpass is not mouse locked (e.g. Ghostwalker)
+Prevent accidental clicks to the timer in games where the Speedpass is not mouse locked (e.g. Ghostrunner)
 # Methods of use.
 1. Turn on the timer
 2. Adjust the timer position and parameters.

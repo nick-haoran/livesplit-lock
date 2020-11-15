@@ -1,17 +1,17 @@
 # livesplit-lock
 livesplit Timer Mouse Penetrator 1.1 is out!
-*:: Functionality
+# Functionality
 Prevent accidental clicks to the timer in games where the Speedpass is not mouse locked (e.g. Ghostrunner)
-* Methods of use.
+# Methods of use.
 1. Turn on the timer
 2. Adjust the timer position and parameters.
 3. Click on the locker (livesplit-penetrate.exe)
 4. Click the YESNO option in the pop-up message box, YES means open penetration, NO means close penetration.
-*Updated functions.
+# Updated functions.
 Pop-up message box for selection without turning off the timer and then on again
-* Download address.
+# Download address.
 https://github.com/nick-haoran/livesplit-lock/releases/
-*Note: This program is open source , call winapi to achieve , proposed by @HeyBlack233 production 
+# Note: This program is open source , call winapi to achieve , proposed by @HeyBlack233 production 
 # my bilibili account ：https://space.bilibili.com/318948877
 
 
